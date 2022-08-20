@@ -1,0 +1,25 @@
+
+.nav-section {
+    display: flex;
+    background-color: #21222A;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.nav-section .logo-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #61dafb;
+}
+
+.nav-section .nav-list {
+    display: flex;
+    align-items: center;
+    color: #deebf8
+}
+
+.nav-section .logo-section .logo {
+    width: 50px;
+    margin-right: 10px;
+}

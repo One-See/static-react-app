@@ -1,0 +1,17 @@
+.content {
+    padding: 1% 15%;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+.list-items > li {
+    color: #FFFFFF;
+    margin: 10px;
+}
+
+li::marker {
+    font-size: 1.2rem;
+    color: #61DAFB;
+}
